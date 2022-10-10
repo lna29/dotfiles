@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = helena.antoniadis@gmail.com
+	name = Helena Antoniadis
